@@ -1,0 +1,9 @@
+[Core]
+Name = CSC230
+Module = csc230
+
+[Documentation]
+Description = This is a simple plugin example to get you started.
+
+[Python]
+Version = 2+
